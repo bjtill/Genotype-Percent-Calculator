@@ -1,0 +1,7 @@
+Chrom Pos 0/0_Percent_Case 0/0_Percent_Control 0/1_Percent_Case 0/1_Percent_Control 1/1_Percent_Case 1/1_Percent_Control
+1 555 50 0 50 0 0 100
+1 3456 0 0 0 0 100 50
+2 21 0 0 100 100 0 0
+3 1356 0 0 50 50 50 50
+4 3434 0 0 0 0 0 0
+55 32322333 0 0 50 50 50 50
